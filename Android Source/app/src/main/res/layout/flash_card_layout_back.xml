@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:minHeight="150sp"
+    >
+
+    <TextView
+        android:id="@+id/question_answer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:minHeight="250sp"
+        android:gravity="center_vertical|center_horizontal"
+        android:letterSpacing="0.2"
+        android:text="TextView"
+        android:textSize="14sp" />
+
+</LinearLayout>

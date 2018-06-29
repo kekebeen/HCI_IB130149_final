@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:minHeight="250sp">
+
+        <TextView
+            android:id="@+id/question_question"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical|center_horizontal"
+            android:letterSpacing="0.2"
+            android:minHeight="250sp"
+            android:text="TextView"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:scrollbarAlwaysDrawVerticalTrack="true"/>
+
+</LinearLayout>
